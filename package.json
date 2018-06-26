@@ -4,6 +4,7 @@
   "description": "product will eventually scrape odds for horse betting. MVP simple web scraper for HTML with no JS.",
   "scripts": {
     "before": "npm install",
+    "start": "node exampleSite.js",
     "test": "jasmine"
   },
   "repository": {
