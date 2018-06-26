@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "product will eventually scrape odds for horse betting. MVP simple web scraper for HTML with no JS.",
   "scripts": {
+    "start": "npm install",
     "test": "jasmine"
   },
   "repository": {
